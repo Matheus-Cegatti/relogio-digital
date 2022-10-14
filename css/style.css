@@ -19,7 +19,6 @@ body{
     justify-content: space-around;
     height: 200px;
     width: 550px;
-    background: transparent;
     border-radius: 7px;
     box-shadow: 5px 5px 10px rgba(6, 70, 99, 0.5);
 }
